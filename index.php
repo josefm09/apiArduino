@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-include '../settings/conection.php';
+include ('../settings/conection.php');
    
 $sql = 'SELECT reg_hash FROM registro';
    mysql_select_db('arduino');
