@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "jose1234";
+$password = "";
 $database = "arduino";
 
 // Create connection

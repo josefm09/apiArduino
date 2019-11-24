@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <?php
 include ('./settings/conection.php');
 
@@ -31,5 +28,3 @@ echo $data['reg_hash'];
 
 $conn->close();
 ?> 
-</body>
-</html>
